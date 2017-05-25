@@ -1,6 +1,8 @@
-# ReduxSimpleStarter
+# React Redux BookList example
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+A simple React application that hooks up Redux to a React project to view weather for a city
+
+This application is based off of the React/Redux [Udemy course](https://www.udemy.com/react-redux/) by [Stephen Grider](https://github.com/StephenGrider)
 
 ### Getting Started
 
@@ -10,15 +12,13 @@ There are two methods for getting started with this repo.
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+> git clone https://github.com/mastephens/react-redux-weather.git
+> cd react-redux-weather
 > npm install
 > npm start
 ```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
+### Run the application
 ```
 > npm install
 > npm start
